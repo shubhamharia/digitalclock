@@ -1,4 +1,4 @@
-# digitalclock
+# digital clock
 The project uses a Xilinx Artix-7 FPGA on a Digilent nexys 4 DDR board to design a clock which displays minutes and hours on a quard 7-segment display.
 
 ## Project Description
